@@ -29,7 +29,7 @@
 
 - Windows 7/8/8.1
 - Kali linux (2017.2)
- 
+- ubuntu LTS 18.04 
 ### Download SiteBroker
 
 You can download the latest version of SiteBroker by cloning the GitHub repository.
